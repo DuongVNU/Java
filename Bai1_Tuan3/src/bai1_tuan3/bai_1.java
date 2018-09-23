@@ -16,8 +16,16 @@ public class bai_1 {
     private void greatestCommonDivisor() {
         System.out.print("Enter first number: ");
         this.a1 = cin.nextInt();
+        if (this.a1 < 0) {
+            this.a1 = -this.a1;
+        }
+
+
         System.out.print("Enter second number: ");
         this.b1 = cin.nextInt();
+        if(this.b1 < 0){
+            this.b1= - this.b1;
+        }
         while (a1 != b1) {
             if (a1 > b1) {
                 a1 = a1 - b1;
@@ -34,7 +42,7 @@ public class bai_1 {
     private int fibonaci(int n) {
         if (n <= 1)
             return n;
-        return fibonaci(n-1) + fibonaci(n-2);
+        return fibonaci(n - 1) + fibonaci(n - 2);
 
     }
 }
