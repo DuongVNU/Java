@@ -19,6 +19,12 @@ public class phan_so {
     }
 
     private int greatestCommonDivisor(int tuso, int mauso) {
+        if (this.tuso < 0) {
+            this.tuso = -this.tuso;
+        }
+        if (this.mauso < 0) {
+            this.mauso = -this.mauso;
+        }
         while (tuso != mauso) {
             if (tuso > mauso) {
                 tuso = tuso - mauso;
@@ -30,27 +36,29 @@ public class phan_so {
 
     }
 
-    private void rutgon() {
-        int ucll = this.greatestCommonDivisor(this.tuso, this.mauso);
-        tuso = tuso / ucll;
-        mauso = mauso / ucll;
+    private static void rutgon(phan_so a) {
+        int ucll = a.greatestCommonDivisor(a.tuso, a.mauso);
+        a.tuso = a.tuso / ucll;
+        a.mauso = a.mauso / ucll;
     }
 
     private void congPhanSo(phan_so ps) {
         int ts = this.getTuSo() * ps.getMauSo() + this.getMauSo() * ps.getTuSo();
         int ms = this.getMauSo() * ps.getMauSo();
         phan_so tongPhanSo = new phan_so(ts, ms);
-        tongPhanSo.rutgon();
+//        tongPhanSo.rutgon();
+//        phan_so.rutgon(tongPhanSo);
         System.out.println("Tổng hai phân số là: " + tongPhanSo.tuso + "/" + tongPhanSo.mauso);
     }
 
     private void truPhanSo(phan_so ps) {
         int ts = this.getTuSo() * ps.getMauSo() - this.getMauSo() * ps.getTuSo();
         int ms = this.getMauSo() * ps.getMauSo();
-        phan_so tongPhanSo = new phan_so(ts, ms);
+        phan_so hieuPhanSo = new phan_so(ts, ms);
         if (ts != 0) {
-            tongPhanSo.rutgon();
-            System.out.println("Hiệu hai phân số là: " + tongPhanSo.tuso + "/" + tongPhanSo.mauso);
+//            tongPhanSo.rutgon();
+//            phan_so.rutgon(hieuPhanSo);
+            System.out.println("Hiệu hai phân số là: " + hieuPhanSo.tuso + "/" + hieuPhanSo.mauso);
         } else {
             System.out.println("Hiệu hai phân số là: 0");
         }
@@ -59,7 +67,7 @@ public class phan_so {
         int ts = this.getTuSo() * ps.getTuSo();
         int ms = this.getMauSo() * ps.getMauSo();
         phan_so tichPhanSo = new phan_so(ts, ms);
-        tichPhanSo.rutgon();
+//        phan_so.rutgon(tichPhanSo);
         System.out.println("Tích hai phân số là: " + tichPhanSo.tuso + "/" + tichPhanSo.mauso);
     }
 
@@ -67,7 +75,8 @@ public class phan_so {
         int ts = this.getTuSo() * ps.getMauSo();
         int ms = this.getMauSo() * ps.getTuSo();
         phan_so thuongPhanSo = new phan_so(ts, ms);
-        thuongPhanSo.rutgon();
+//        thuongPhanSo.rutgon();
+//        phan_so.rutgon(thuongPhanSo);
         System.out.println("Thương hai phân số là: " + thuongPhanSo.tuso + "/" + thuongPhanSo.mauso);
     }
 
@@ -78,7 +87,7 @@ public class phan_so {
     }
 
     public static void main(String[] args) {
-        phan_so phanso1 = new phan_so(3, 5);
+        phan_so phanso1 = new phan_so(3, -5);
         phan_so phanso2 = new phan_so(3, 5);
         phanso1.congPhanSo(phanso2);
         phanso1.truPhanSo(phanso2);
