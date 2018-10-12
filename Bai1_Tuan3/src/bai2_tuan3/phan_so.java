@@ -18,12 +18,18 @@ public class phan_so {
         return mauso;
     }
 
+    /**
+     *
+     * @param tuso
+     * @param mauso
+     * @return
+     */
     private int greatestCommonDivisor(int tuso, int mauso) {
-        if (this.tuso < 0) {
-            this.tuso = -this.tuso;
+        if (tuso < 0) {
+            tuso = -tuso;
         }
-        if (this.mauso < 0) {
-            this.mauso = -this.mauso;
+        if (mauso < 0) {
+            mauso = -mauso;
         }
         while (tuso != mauso) {
             if (tuso > mauso) {
@@ -87,8 +93,8 @@ public class phan_so {
     }
 
     public static void main(String[] args) {
-        phan_so phanso1 = new phan_so(3, -5);
-        phan_so phanso2 = new phan_so(3, 5);
+        phan_so phanso1 = new phan_so(1, 2);
+        phan_so phanso2 = new phan_so(1, 5);
         phanso1.congPhanSo(phanso2);
         phanso1.truPhanSo(phanso2);
         phanso1.nhanPhanSo(phanso2);
