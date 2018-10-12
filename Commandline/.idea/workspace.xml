@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39608817-058d-4895-b126-661838c2035c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commandline.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Directory/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Directory/DictionaryCommandline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Directory/DictionaryManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Directory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Directory/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directory/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directory/edict.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directory/src/sample/Alert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directory/src/sample/Dialog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sample/search.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/Bai1_Tuan3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/Bai1_Tuan3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/Tuan_4/IBM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/Tuan_4/IBM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/Tuan_4/maxArrayInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/Tuan_4/maxArrayInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/Tuan_4/maxTwoInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/Tuan_4/maxTwoInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/camcaophong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/camcaophong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/camsanh.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/camsanh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/hoaqua.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/hoaqua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/quacam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/quacam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/quanli.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/quanli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/quatao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai1_tuan5/quatao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan3/phan_so.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan3/phan_so.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/quanli.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/src/bai2_tuan5/quanli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/test/Tuan_4/IBMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/test/Tuan_4/IBMTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/test/Tuan_4/maxArrayIntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/test/Tuan_4/maxArrayIntTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bai1_Tuan3/test/Tuan_4/maxTwoIntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai1_Tuan3/test/Tuan_4/maxTwoIntTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Directory/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Directory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Directory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -237,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539379759554" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539379916222" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bai1_Tuan3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -287,16 +240,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539372512374</updated>
-      <workItem from="1539372516464" duration="7230000" />
+      <workItem from="1539372516464" duration="7533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7230000" />
+    <option name="totallyTimeSpent" value="7533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -304,7 +256,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -313,7 +265,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
