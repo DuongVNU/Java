@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a294c330-1c97-4615-bd79-9b5e0905fd1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Commandline/src/Directory/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Commandline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/Dictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/DictionaryCommandline.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/DictionaryCommandline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/DictionaryManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/DictionaryManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/out/production/Commandline/Directory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/src/Directory/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/src/Directory/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/src/Directory/DictionaryCommandline.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/src/Directory/DictionaryCommandline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/src/Directory/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/src/Directory/DictionaryManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Commandline/src/Directory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Commandline/src/Directory/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +25,7 @@
     <session id="1897194486">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -61,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state>
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="e#247#248#0" expanded="true" />
@@ -74,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai1_tuan5/quanli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state>
               <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
@@ -83,26 +93,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state>
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="-7">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding>
-                <element signature="e#459#460#0" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bai1_tuan5/camcaophong.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -114,7 +125,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state>
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -183,10 +194,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="width" value="1025" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -224,7 +236,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538955489761" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Work/merchant-web-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -354,7 +366,7 @@
       <workItem from="1538570907052" duration="321000" />
       <workItem from="1538944007973" duration="6691000" />
       <workItem from="1539152300807" duration="88000" />
-      <workItem from="1539373083479" duration="1330000" />
+      <workItem from="1539373083479" duration="2792000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1537740850233</created>
@@ -406,10 +418,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39921000" />
+    <option name="totallyTimeSpent" value="41383000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -641,6 +654,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27">
           <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -648,6 +674,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -668,7 +698,7 @@
     <entry file="file://$PROJECT_DIR$/src/bai1_tuan5/abc.java" />
     <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state>
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="e#247#248#0" expanded="true" />
@@ -679,15 +709,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bai1_tuan5/quanli.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state>
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state>
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -695,24 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai2_tuan5/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
