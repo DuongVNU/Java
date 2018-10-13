@@ -13,11 +13,11 @@ public class Dictionary {
     public void setWordArray(List<Word> wordArray) {
         this.wordArray = wordArray;
     }
-    public void setWordElement(Word word){
-        this.wordArray.add(word);
-    }
     public Word getWordElement(int index){
         return this.wordArray.get(index);
+    }
+    public void addWordElement(Word word){
+        this.wordArray.add(word);
     }
     public void removeWordElement(int index){
         this.wordArray.remove(index);
